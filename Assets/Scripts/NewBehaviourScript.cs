@@ -6,7 +6,7 @@ public class NewBehaviourScript : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		Debug.Log ("Hola esto esta corregido");
+		Debug.Log ("Hola esto esta modificado en GitHub");
 	}
 	
 	// Update is called once per frame
