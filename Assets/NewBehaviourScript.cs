@@ -14,3 +14,9 @@ public class NewBehaviourScript : MonoBehaviour {
 		
 	}
 }
+
+
+
+public class persona {
+
+}
