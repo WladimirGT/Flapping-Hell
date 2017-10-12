@@ -1,50 +1,54 @@
 
-Temp/UnityLockfile
-Library/assetDatabase3
-Library/assetDatabase3
-Library/assetDatabase3
-Library/metadata/ae/aeefe950ea3a64a4aa2a3445af6ff2eb
-Library/metadata/ae/aeefe950ea3a64a4aa2a3445af6ff2eb.info
-Library/ScriptAssemblies/Assembly-CSharp.dll
-Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
-Library/ScriptAssemblies/BuiltinAssemblies.stamp
-obj/Debug/Assembly-CSharp.csproj.FileListAbsolute.txt
-obj/Debug/Assembly-CSharp.csprojResolveAssemblyReference.cache
-obj/Debug/Assembly-CSharp.dll
-obj/Debug/Assembly-CSharp.pdb
-Temp/__Backupscenes/0.backup
-Temp/bin/Debug/Assembly-CSharp.dll
-Temp/bin/Debug/Assembly-CSharp.pdb
-Temp/bin/Debug/ExCSS.Unity.dll
-Temp/bin/Debug/Mono.Cecil.dll
-Temp/bin/Debug/Mono.Cecil.Mdb.dll
-Temp/bin/Debug/Mono.Cecil.Pdb.dll
-Temp/bin/Debug/nunit.framework.dll
-Temp/bin/Debug/nunit.framework.xml
-Temp/bin/Debug/Unity.CecilTools.dll
-Temp/bin/Debug/Unity.DataContract.dll
-Temp/bin/Debug/Unity.Legacy.NRefactory.dll
-Temp/bin/Debug/Unity.SerializationLogic.dll
-Temp/bin/Debug/Unity.UNetWeaver.dll
-Temp/bin/Debug/UnityEditor.dll
-Temp/bin/Debug/UnityEditor.xml
-Temp/bin/Debug/UnityEngine.Analytics.dll
-Temp/bin/Debug/UnityEngine.Analytics.xml
-Temp/bin/Debug/UnityEngine.dll
-Temp/bin/Debug/UnityEngine.HoloLens.dll
-Temp/bin/Debug/UnityEngine.HoloLens.xml
-Temp/bin/Debug/UnityEngine.Networking.dll
-Temp/bin/Debug/UnityEngine.Networking.xml
-Temp/bin/Debug/UnityEngine.TestRunner.dll
-Temp/bin/Debug/UnityEngine.TestRunner.xml
-Temp/bin/Debug/UnityEngine.Timeline.dll
-Temp/bin/Debug/UnityEngine.Timeline.xml
-Temp/bin/Debug/UnityEngine.UI.dll
-Temp/bin/Debug/UnityEngine.UI.xml
-Temp/bin/Debug/UnityEngine.xml
-Temp/UnityTempFile-1d79edd7642979842a1e77d0722a816f
-Temp/UnityTempFile-af2ea0c7994bb9242ad2d9dccd1430e2
-Library/assetDatabase3
-Library/assetDatabase3
-Library/assetDatabase3
-Library/assetDatabase3
+
+
+
+
+# =============== #
+# Unity generated #
+# =============== #
+[Tt]emp/
+[Oo]bj/
+[Bb]uild
+/[Bb]uilds/
+/[Ll]ibrary/
+sysinfo.txt
+*.stackdump
+/Assets/AssetStoreTools*
+*.apk
+*.unitypackage
+ *.pidb.meta
+ sysinfo.txt
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+[Ee]xported[Oo]bj/
+ExportedObj/
+.vs/
+/*.userprefs
+/*.csproj
+/*.pidb
+*.pidb.meta
+/*.suo
+/*.sln*
+/*.user
+/*.unityproj
+/*.booproj
+.consulo/
+/*.tmp
+/*.svd
+*.pdb
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+[Tt]humbs.db
+[Dd]esktop.ini
+Corridor/Library/ShaderCache/
+Corridor/Library/metadata/
